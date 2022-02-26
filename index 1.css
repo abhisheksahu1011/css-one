@@ -1,0 +1,75 @@
+.html
+    {
+        font-size: 50%;
+    }
+
+.body
+{
+    margin: auto;
+    
+}
+.class
+        {
+            
+            color: brown;
+            font-size: 25px;
+        }
+.text
+    {
+        font-style: italic;
+        color: brown;
+        font-size: 30px;
+    }        
+
+
+.ol     
+    {
+        color: brown;
+        font-size: 20px;
+    }
+.one
+    {
+        text-decoration: line-through;
+    }    
+.two
+    {
+     background-color: yellow; 
+     
+    }    
+.three
+    {
+        text-decoration: underline;
+        font-style: italic;
+    }    
+
+.four
+        {
+            font-size: 25px;
+            font-style: italic;
+             color: brown;
+        
+        }    
+
+
+ .ul
+    {
+        color: brown;
+        letter-spacing:0.1cm;
+    }  
+.five 
+        {
+            color: rgb(189, 28, 28);
+
+        }
+    
+.six
+    {
+        background-color: yellow;
+    }
+
+.seven
+        {
+            color: brown;
+            background-color: yellow;
+            font-style: italic;
+        }
